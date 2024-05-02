@@ -10,7 +10,7 @@ This clone follows the basic gameplay mechanics of Wordle, allowing players to g
 
 ## How to Play
 
-1. Visit the game URL: [Wordle Clone](https://example.com/wordle-clone)
+1. Visit the game URL: [Wordle Clone]([https://example.com/wordle-clone](https://ahmedalharees.github.io/wordle-clone/))
 2. Enter your guess in the input field.
 3. Submit your guess.
 4. Receive feedback on your guess:
@@ -29,7 +29,7 @@ This clone follows the basic gameplay mechanics of Wordle, allowing players to g
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/AhmedAlharees/wordle-clone`
 2. Navigate to the project directory: `cd wordle`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
