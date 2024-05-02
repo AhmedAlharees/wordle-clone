@@ -10,7 +10,7 @@ This clone follows the basic gameplay mechanics of Wordle, allowing players to g
 
 ## How to Play
 
-1. Visit the game URL: [Wordle Clone]([https://example.com/wordle-clone](https://ahmedalharees.github.io/wordle-clone/))
+1. Visit the game URL: [Wordle Clone]([https://ahmedalharees.github.io/wordle-clone/])
 2. Enter your guess in the input field.
 3. Submit your guess.
 4. Receive feedback on your guess:
